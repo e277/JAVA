@@ -1,0 +1,31 @@
+So far topics covered:
+Object Oriented Concepts
+Java: Features of Java 
+Java Virtual Machine
+Data types and Variables
+Operators  
+Control Structures
+Classes and Objects
+Methods
+Constructors
+Access Specifiers
+Static Members
+Wrapper Class
+Arrays and Strings
+I/O Streams
+Command line Arguments
+Inheritance: Inheritance types
+This,super and final
+Polymorphism: Types
+Method Overloading
+Method Overriding
+Abstract Classes and Interfaces
+Packages
+Exception Handling
+Multithreading: Thread creation
+Life cycle of a thread
+
+
+To be covered as I have planned:
+Thread Priority
+Thread Synchronization

@@ -1,0 +1,29 @@
+
+Computer
+Attributes - color, brand
+Operations - install software, play video, play music
+
+Book
+Attributes - color, size, 
+Operations - write, 
+
+Lion 
+Attributes - weight, color
+Operations - eat, sleep, roar
+
+Plane
+Attributes - color, weight, shape, size
+Operations - fly, steer
+
+
+Questions for Tomorrow - Define These
+
+Introduction to Java
+Features of Java
+Components of Java
+JDK
+JRE
+JVM
+
+find the difference between C ,CPP and java language
+
